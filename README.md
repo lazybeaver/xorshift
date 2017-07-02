@@ -1,5 +1,5 @@
-Description
-===========
+xorshift [![Build Status](https://travis-ci.org/lazybeaver/xorshift.svg?branch=master)](https://travis-ci.org/lazybeaver/xorshift)
+========
 A golang implementation of the xorshift family of pseudorandom number generators.
 
 These generators are simultaneously high quality, fast, cache-line friendly, simple to implement, have a large period and pass the [TestU01](http://simul.iro.umontreal.ca/testu01/tu01.html) statistical tests.
